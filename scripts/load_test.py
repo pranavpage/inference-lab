@@ -19,7 +19,8 @@ async def one_request(client, args, books, question, results):
             max_tokens=200,
             stream=True,
             # Qwen3 "thinks" before answering by default; turn it off
-            extra_body={"chat_template_kwargs": {"enable_thinking": False}},
+            extra_body=None if args.no_thinking_flag else
+                       {"chat_template_kwargs": {"enable_thinking": False}},
         )
         served_by = {k: v for k, v in raw.headers.items() if k.startswith("x-litellm-model")}
         async for chunk in raw.parse():
@@ -41,6 +42,8 @@ async def main():
     p.add_argument("--concurrency", type=int, default=8)
     p.add_argument("--books", type=int, default=1, help="how many different books to ask about")
     p.add_argument("--repeat", type=int, default=1, help="send the question list this many times")
+    p.add_argument("--no-thinking-flag", action="store_true",
+                   help="don't send chat_template_kwargs (needed for servers like OpenAI that reject it)")
     p.add_argument("--out", default=None)
     args = p.parse_args()
 
