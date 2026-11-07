@@ -10,6 +10,7 @@ async def one_request(client, args, books, question, results):
     start = time.perf_counter()
     first = None
     tokens = 0
+    text = ""
     try:
         # with_raw_response lets us read HTTP headers (needed in Lab 2)
         raw = await client.chat.completions.with_raw_response.create(
@@ -28,9 +29,11 @@ async def one_request(client, args, books, question, results):
                 if first is None:
                     first = time.perf_counter()
                 tokens += 1
-        results.append({"ok": True, "ttft": first - start if first else None,
+                text += chunk.choices[0].delta.content
+        results.append({"ok": True, "question": question,
+                        "ttft": first - start if first else None,
                         "total": time.perf_counter() - start, "tokens": tokens,
-                        "served_by": served_by})
+                        "served_by": served_by, "output": text[:500]})
     except Exception as e:
         results.append({"ok": False, "error": str(e)[:200]})
 
