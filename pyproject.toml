@@ -2,4 +2,6 @@
 name = "inference-lab"
 version = "0.1.0"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "openai>=3.46.0",
+]
