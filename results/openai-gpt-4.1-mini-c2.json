@@ -2,71 +2,71 @@
  {
   "ok": true,
   "question": "Who is the narrator of this passage?",
-  "ttft": 0.927745167,
-  "total": 1.0788626250000002,
-  "tokens": 18,
+  "ttft": 0.8343685839999999,
+  "total": 1.0102339999999999,
+  "tokens": 16,
   "served_by": {},
-  "output": "The narrator of this passage is a third-person omniscient narrator describing Alice's adventures."
+  "output": "The narrator is an unnamed third-person narrator telling the story of Alice's adventures."
  },
  {
   "ok": true,
   "question": "Who are the characters mentioned in the passage?",
-  "ttft": 1.4470910830000001,
-  "total": 1.9678966250000003,
-  "tokens": 55,
+  "ttft": 1.2484845839999998,
+  "total": 1.753245459,
+  "tokens": 52,
   "served_by": {},
-  "output": "The characters mentioned are Alice, the Mouse, the White Rabbit, the Lory, an old Crab and her daughter, Dinah (Alice's cat), an old Magpie, a Canary, Bill (a Lizard), a Puppy, and a large blue Caterpillar."
+  "output": "The characters mentioned are Alice, the Mouse, the Lory, the old Crab, the young Crab, Dinah (Alice's cat), the White Rabbit, Mary Ann, Bill (the Lizard), an enormous puppy, and a large blue Caterpillar."
  },
  {
   "ok": true,
   "question": "Summarise this passage in three sentences",
-  "ttft": 1.172396167,
-  "total": 1.7059476669999998,
-  "tokens": 81,
+  "ttft": 1.0471395829999999,
+  "total": 1.4581505419999998,
+  "tokens": 71,
   "served_by": {},
-  "output": "Alice listens to the Mouse's story but gets distracted, upsetting the Mouse who leaves. The White Rabbit appears, mistaking Alice for his housemaid, and Alice grows very large after drinking from a bottle in his house, causing chaos as the Rabbit and his helpers try to get her out. Later, Alice encounters a blue Caterpillar who challenges her identity with puzzling questions, leading to a confusing conversation."
+  "output": "Alice listens to the Mouse's sad story, but the Mouse becomes offended and leaves. The White Rabbit mistakenly treats Alice as a servant, leading her to find magical items that cause her to grow and shrink in size, resulting in a series of humorous mishaps. Alice then encounters a large blue Caterpillar, who challenges her identity in a cryptic conversation."
  },
  {
   "ok": true,
   "question": "What are 3 quotes from this passage worth remembering for a student of literature?",
-  "ttft": 1.046144333,
-  "total": 1.5585568749999998,
-  "tokens": 83,
+  "ttft": 1.0343139160000003,
+  "total": 1.7016005830000003,
+  "tokens": 109,
   "served_by": {},
-  "output": "1. \u201cFury said to a mouse, That he met in the house, \u2018Let us both go to law: _I_ will prosecute _you_.\u201d  \n2. \u201cWhen I used to read fairy-tales, I fancied that kind of thing never happened, and now here I am in the middle of one!\u201d  \n3. \u201cWho are _you?_\u201d said the Caterpillar."
+  "output": "1. \"I\u2014I hardly know, sir, just at present\u2014at least I know who I _was_ when I got up this morning, but I think I must have been changed several times since then.\"\n\n2. \u201cI almost wish I hadn\u2019t gone down that rabbit-hole\u2014and yet\u2014and yet\u2014it\u2019s rather curious, you know, this sort of life!\u201d\n\n3. \u201cFury said to a mouse, That he met in the house, \u2018Let us both go to law: _I_ will prosecute _you_.\u2019\u201d"
  },
  {
   "ok": true,
   "question": "How does the sentence structure of this passage differ from modern English?",
-  "ttft": 0.9921615420000003,
-  "total": 1.2526414579999998,
-  "tokens": 28,
+  "ttft": 0.8980276250000001,
+  "total": 1.1495086250000002,
+  "tokens": 31,
   "served_by": {},
-  "output": "The passage features longer, more complex sentences with formal punctuation and phrasing, unlike the shorter, simpler sentence structures commonly used in modern English."
+  "output": "The passage uses longer, more complex sentences with semicolons and dashes, and includes archaic punctuation and formal phrasing less common in modern English."
  },
  {
   "ok": true,
   "question": "What time period does the passage take place in?",
-  "ttft": 0.8010019169999998,
-  "total": 0.9504595419999999,
-  "tokens": 10,
+  "ttft": 1.4133581250000002,
+  "total": 1.419036792,
+  "tokens": 25,
   "served_by": {},
-  "output": "The passage does not specify a particular time period."
+  "output": "The passage does not specify a particular time period; it is set in a fantastical, timeless world typical of fairy tales."
  },
  {
   "ok": true,
   "question": "What food items if any are mentioned in the passage?",
-  "ttft": 0.8798706669999996,
-  "total": 1.0567238749999994,
-  "tokens": 30,
+  "ttft": 1.0602152079999998,
+  "total": 1.2161707499999999,
+  "tokens": 20,
   "served_by": {},
-  "output": "Comfits, cakes made from little pebbles, a little bit of stick (used for playing), and a mushroom are mentioned in the passage."
+  "output": "Comfits, cakes (that make Alice change size), and apples (mentioned as being dug for)."
  },
  {
   "ok": true,
   "question": "Is the setting in the passage a realistic setting or fantasy?",
-  "ttft": 0.7357845840000001,
-  "total": 0.8697236250000007,
+  "ttft": 0.767045209,
+  "total": 0.9052201250000005,
   "tokens": 10,
   "served_by": {},
   "output": "The setting in the passage is a fantasy setting."
@@ -74,53 +74,53 @@
  {
   "ok": true,
   "question": "I am writing a book report, can you give me a theme based on this passage?",
-  "ttft": 0.7468392079999999,
-  "total": 0.9975920830000007,
-  "tokens": 32,
+  "ttft": 0.7673113340000004,
+  "total": 0.9974608749999998,
+  "tokens": 31,
   "served_by": {},
-  "output": "A theme in this passage is the confusion and challenges of growing up, as Alice experiences constant changes in size and struggles to understand her identity in a strange world."
+  "output": "A theme in this passage is the challenges of identity and change, as Alice struggles with her shifting size and understanding of herself in a confusing and unfamiliar world."
  },
  {
   "ok": true,
   "question": "What is the author's style, do they use long sentences, heavy adverbs, brief descriptions, flowery language etc?",
-  "ttft": 0.7662904999999993,
-  "total": 1.0475577079999994,
-  "tokens": 38,
+  "ttft": 0.9019854169999997,
+  "total": 1.3957768750000001,
+  "tokens": 51,
   "served_by": {},
-  "output": "The author's style features long sentences with whimsical and detailed descriptions. There is a mix of dialogue and narrative, often including humor and playful language rather than heavy adverbs or overly flowery language."
+  "output": "The author's style features long, flowing sentences with a mix of dialogue and descriptive narration. The language is whimsical and playful, often including vivid, imaginative descriptions and some lightly humorous or ironic remarks, but it is not overly flowery or heavy with adverbs."
  },
  {
   "ok": true,
   "question": "What is the overall mood or tone of this passage?",
-  "ttft": 1.0423329999999993,
-  "total": 1.1311203330000001,
-  "tokens": 22,
+  "ttft": 1.469723708,
+  "total": 1.6421073749999993,
+  "tokens": 24,
   "served_by": {},
-  "output": "The overall mood of the passage is whimsical and slightly tense, with moments of confusion, frustration, and curiosity."
- },
- {
-  "ok": true,
-  "question": "Which words in this passage might be unfamiliar to a modern reader, and what do they mean?",
-  "ttft": 0.916023375,
-  "total": 1.4347491669999997,
-  "tokens": 78,
-  "served_by": {},
-  "output": "- Comfits: sugar-coated sweets.\n- Knot (in tale): a complicated or tangled part.\n- Cucumber-frame: a structure for growing cucumbers.\n- Kid gloves: soft leather gloves.\n- Hookah: a water pipe for smoking.\n- Chrysalis: the pupal stage of a butterfly.\n- Barrowful: amount that can be carried in a wheelbarrow."
+  "output": "The overall mood of the passage is whimsical and curious, with moments of confusion, frustration, and a touch of melancholy."
  },
  {
   "ok": true,
   "question": "What conflict, if any, is present in this passage?",
-  "ttft": 0.7909562089999991,
-  "total": 1.0484579170000004,
-  "tokens": 38,
+  "ttft": 0.7499867499999997,
+  "total": 1.043402833,
+  "tokens": 60,
   "served_by": {},
-  "output": "The conflict in this passage involves Alice's struggles with changing size, confusion about her identity, and misunderstandings with the creatures she encounters, such as the offended Mouse and the frustrated White Rabbit."
+  "output": "The conflict in the passage is Alice's struggle with changing sizes\u2014growing too large to fit in the room and then shrinking again\u2014and her difficulty navigating and interacting with the strange creatures around her. Additionally, there is tension between Alice and the Mouse, who becomes offended and leaves before finishing its story."
+ },
+ {
+  "ok": true,
+  "question": "Which words in this passage might be unfamiliar to a modern reader, and what do they mean?",
+  "ttft": 1.4931778750000007,
+  "total": 2.101614542,
+  "tokens": 98,
+  "served_by": {},
+  "output": "- Comfits: sugar-coated sweets.\n- Lory: a type of parrot.\n- Magpie: a bird known for collecting shiny objects.\n- Canary: a small songbird.\n- Kid gloves: soft leather gloves, often white.\n- Hookah: a water pipe used for smoking.\n- Chrysalis: a protective casing during a butterfly's pupal stage.\n- Caterpillar: the larval stage of a butterfly or moth.\n- Pattering: light tapping or footsteps."
  },
  {
   "ok": true,
   "question": "Is this passage written in first, second, or third person?",
-  "ttft": 0.8401434999999999,
-  "total": 0.9156124170000002,
+  "ttft": 0.7307706250000017,
+  "total": 0.8672908750000001,
   "tokens": 8,
   "served_by": {},
   "output": "The passage is written in third person."
@@ -128,100 +128,100 @@
  {
   "ok": true,
   "question": "What emotions does the main character experience in this passage?",
-  "ttft": 0.7622553340000007,
-  "total": 0.9584193750000001,
-  "tokens": 18,
+  "ttft": 1.2264853329999994,
+  "total": 1.4215547080000004,
+  "tokens": 26,
   "served_by": {},
-  "output": "Alice experiences fear, loneliness, melancholy, frustration, curiosity, and irritation in this passage."
+  "output": "The main character, Alice, experiences loneliness, sadness, fear, frustration, curiosity, and a sense of confusion throughout the passage."
  },
  {
   "ok": true,
   "question": "Are there any examples of foreshadowing in this passage?",
-  "ttft": 0.8144238330000011,
-  "total": 1.0914824159999998,
-  "tokens": 42,
+  "ttft": 0.8714266249999998,
+  "total": 1.1865965420000002,
+  "tokens": 51,
   "served_by": {},
-  "output": "Yes. Alice's wish to be the right size to teach the puppy tricks foreshadows her continued size changes. Also, the Caterpillar questioning \"Who are you?\" hints at Alice's identity confusion ahead."
+  "output": "Yes, the passage foreshadows Alice's ongoing size changes, such as when she drinks from the bottle that makes her grow larger and then finds cakes that make her shrink. Also, her encounter with the Caterpillar hints at further identity and transformation themes."
  },
  {
   "ok": true,
   "question": "Rewrite the first two sentences of this passage in modern, plain English",
-  "ttft": 0.7651362499999994,
-  "total": 1.1421327909999999,
-  "tokens": 51,
+  "ttft": 0.7428542080000007,
+  "total": 1.071377042,
+  "tokens": 43,
   "served_by": {},
-  "output": "She tried to look as serious as she could.\n\nNext, they began eating the comfits, which caused some noise and confusion because the large birds said they couldn't taste theirs, and the small ones choked and had to be patted on the back."
+  "output": "The next thing to do was to eat the sweets. This caused some noise and confusion because the big birds complained they couldn't taste theirs, and the small ones choked and needed to be patted on the back."
  },
  {
   "ok": true,
   "question": "What literary devices, such as metaphor or simile, are used in this passage?",
-  "ttft": 1.07568925,
-  "total": 1.5749949159999996,
-  "tokens": 82,
+  "ttft": 1.3420494170000001,
+  "total": 1.8028221249999987,
+  "tokens": 83,
   "served_by": {},
-  "output": "The passage uses metaphor, as in the Mouse calling its story a \"long and a sad tale,\" playing on the double meaning of \"tail/tale.\" It also includes personification, with animals speaking and behaving like humans. Additionally, there is irony in Alice being mistaken for a housemaid and the absurdity of the Rabbit's commands. The playful use of language and nonsense verse is another literary device present."
+  "output": "The passage uses metaphor, such as \"Mine is a long and a sad tale\" (a pun on \"tail\" referring to the Mouse's tail). It also includes personification, like animals talking and behaving like humans. There is also irony in Alice being mistaken for the housemaid Mary Ann. Additionally, alliteration appears in phrases like \"feared ferrets\" and \"fury said to a mouse.\""
  },
  {
   "ok": true,
   "question": "What locations or places are mentioned in the passage?",
-  "ttft": 0.9273336660000009,
-  "total": 1.4822585000000004,
-  "tokens": 95,
+  "ttft": 0.8008700829999995,
+  "total": 1.1416160830000006,
+  "tokens": 57,
   "served_by": {},
-  "output": "- The Mouse's tale/story location (house)\n- The little house with the name \"W. RABBIT\" on the door\n- A tidy little room inside the rabbit's house\n- A thick wood where Alice wandered\n- The garden Alice wants to find\n- A narrow chimney in the rabbit's house\n- A cucumber-frame where the rabbit falls\n- Near a buttercup where Alice rests\n- A large mushroom in the wood where the caterpillar sits"
- },
- {
-  "ok": true,
-  "question": "What questions might a teacher ask a class to test their understanding of this passage?",
-  "ttft": 0.8497199159999997,
-  "total": 1.5713417080000003,
-  "tokens": 135,
-  "served_by": {},
-  "output": "A teacher might ask:\n1. Why did the Mouse get offended with Alice?\n2. How did Alice react when the White Rabbit mistook her for Mary Ann?\n3. What happened to Alice after she drank from the little bottle in the Rabbit's house?\n4. How did Alice try to get out of the Rabbit's house when she was too large?\n5. What was Alice's interaction with the puppy in the woods like?\n6. Who does Alice meet on the mushroom, and what is his attitude?\n7. What does the Caterpillar ask Alice, and how does she respond"
- },
- {
-  "ok": true,
-  "question": "Translate a quote from this passage into Spanish",
-  "ttft": 0.7000667919999994,
-  "total": 0.8414702499999986,
-  "tokens": 11,
-  "served_by": {},
-  "output": "Please provide the specific quote you'd like translated into Spanish."
+  "output": "Locations mentioned include: a neat little house with the name \"W. RABBIT,\" a great hall with a glass table and little door (now vanished), a thick wood where Alice wanders, a narrow fireplace or chimney, and a large mushroom with a caterpillar on top."
  },
  {
   "ok": true,
   "question": "Rewrite a 5 sentence excerpt from this passage in Ernest Hemingway's style",
-  "ttft": 0.9524854170000001,
-  "total": 1.1969831249999991,
-  "tokens": 41,
+  "ttft": 0.8179721670000006,
+  "total": 1.0793184999999994,
+  "tokens": 42,
   "served_by": {},
-  "output": "Alice found the fan and gloves. She drank the bottle without a label. She grew so big she hit the ceiling. She could not fit out the door. She wished she hadn\u2019t drunk so much."
+  "output": "Alice was alone again. She wished she hadn\u2019t said anything about Dinah. The birds had all fled, frightened by her cat. Tears came to her eyes. She sat down, feeling small and lost."
  },
  {
   "ok": true,
-  "question": "What animals if any are mentioned in the passage?",
-  "ttft": 0.6942256250000014,
-  "total": 0.9921591250000006,
-  "tokens": 47,
+  "question": "What questions might a teacher ask a class to test their understanding of this passage?",
+  "ttft": 0.8259712080000003,
+  "total": 1.8075344169999994,
+  "tokens": 171,
   "served_by": {},
-  "output": "Animals mentioned include: Mouse, birds (large and small), Lory, Crab, oyster, cat (Dinah), Magpie, Canary, White Rabbit, guinea-pigs, Lizard (Bill), puppy, blue Caterpillar."
+  "output": "1. Why did the birds react strongly when Alice mentioned her cat, Dinah?  \n2. What caused Alice to grow very large in the Rabbit's house?  \n3. How did Alice manage to escape from the house when she became smaller again?  \n4. Describe the interaction between Alice and the Rabbit. Why was Alice frightened?  \n5. What was the significance of the little cakes that the pebbles turned into?  \n6. How did Alice try to deal with the enormous puppy in the woods?  \n7. What was unusual about Alice's conversa"
  },
  {
   "ok": true,
   "question": "Choose one character from the passage who has significant dialogue, and write a greeting to the 21st century reader from that character",
-  "ttft": 0.8375192499999997,
-  "total": 1.2577552080000007,
-  "tokens": 58,
+  "ttft": 0.9316802919999994,
+  "total": 1.3405109169999996,
+  "tokens": 72,
   "served_by": {},
-  "output": "\"Who are you?\" said the Caterpillar. Greetings, curious reader of the 21st century! I am the Caterpillar, calmly pondering life with my hookah smoke. Remember, change is confusing but inevitable\u2014just like me transforming into a butterfly. Keep questioning who you are!"
+  "output": "Hello, curious reader of the 21st century! I am the Caterpillar, the one who asked you, \"Who are you?\" I hope you take time to ponder who you truly are, for changing and growing is quite the curious adventure. Remember, identity can be as puzzling as a hookah pipe's swirling smoke. Stay thoughtful and mysterious!"
+ },
+ {
+  "ok": true,
+  "question": "Translate the first 5 sentences from this passage into Spanish.",
+  "ttft": 1.0613482909999998,
+  "total": 1.8537040000000005,
+  "tokens": 139,
+  "served_by": {},
+  "output": "Tan solemne como pudo.\n\nLo siguiente fue comer los comfits: esto caus\u00f3 algo de ruido y confusi\u00f3n, ya que las aves grandes se quejaban de que no pod\u00edan saborear los suyos, y las peque\u00f1as se atragantaban y ten\u00edan que ser palmoteadas en la espalda.\n\nSin embargo, al fin termin\u00f3, y se sentaron de nuevo en c\u00edrculo, y suplicaron al Rat\u00f3n que les contara algo m\u00e1s.\n\n\u201cPrometiste contarme tu historia, ya sabes,\u201d dijo Alicia, \u201cy por qu\u00e9 odias la C y la D,\u201d a\u00f1adi\u00f3 en un susurro, medio temerosa de que se ofen"
+ },
+ {
+  "ok": true,
+  "question": "What animals if any are mentioned in the passage?",
+  "ttft": 0.924332917000001,
+  "total": 1.159233417000003,
+  "tokens": 35,
+  "served_by": {},
+  "output": "Animals mentioned include: Mouse, birds, Magpie, Canary, Cat (Dinah), White Rabbit, Guinea-pigs, Lizard (Bill), Puppy, Caterpillar."
  },
  {
   "ok": true,
   "question": "Imagine the characters are corresponding via tweets on Twitter. How would an exchange look like?",
-  "ttft": 1.0450625829999982,
-  "total": 2.1012619170000004,
-  "tokens": 197,
+  "ttft": 0.758020958000003,
+  "total": 1.8426002910000001,
+  "tokens": 180,
   "served_by": {},
-  "output": "Mouse: \"My history is a long and sad tale... but today I\u2019m feeling offended. #MouseMood #SadTale\"\n\nAlice: \"@Mouse Sorry! Didn\u2019t mean to offend. Can I help untangle that tail? \ud83d\ude05 #HelpingHand\"\n\nMouse: \"No, I shall do nothing of the sort! #OffendedMouse\"\n\nAlice: \"I wish Dinah, my cat, was here to fetch you back! #MissDinah\"\n\nBirds: \"Running home! Night air\u2019s not good for the throat! #BirdLife\"\n\nAlice: \"Oh no, mentioning Dinah caused quite a stir. Sorry everyone! \ud83d\udc31 #CatControversy\"\n\nWhiteRabbit: \"Ma"
+  "output": "Mouse: \"Long and sad tail... I mean, tale! \ud83d\udc2d\u2696\ufe0f #Justice #FuryIsJudgeAndJury\"\n\nAlice: \"Oops, sorry Mouse! I got distracted by your tail \ud83d\ude33\ud83e\uddf5 #PayAttention\"\n\nMouse: \"Don't insult me, Alice! No help with knots, please! \ud83d\ude20 #EasilyOffended\"\n\nAlice: \"Come back & finish your story, please! \ud83e\udd7a #StoryTime\"\n\nWhite Rabbit: \"Mary Ann! Fetch my gloves and fan NOW! \ud83e\udde4\ud83d\udcff #Urgent #LostStuff\"\n\nAlice: \"Running errands for a rabbit... never thought I\u2019d say that! \ud83d\udc07\ud83c\udfc3\u200d\u2640\ufe0f #AliceAdventures\"\n\nAlice: \"Found a magic bottle\u2014grow"
  }
 ]

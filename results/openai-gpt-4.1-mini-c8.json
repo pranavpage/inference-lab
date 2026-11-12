@@ -1,0 +1,227 @@
+[
+ {
+  "ok": true,
+  "question": "Is the setting in the passage a realistic setting or fantasy?",
+  "ttft": 0.8684042909999998,
+  "total": 0.990973541,
+  "tokens": 10,
+  "served_by": {},
+  "output": "The setting in the passage is a fantasy setting."
+ },
+ {
+  "ok": true,
+  "question": "Who is the narrator of this passage?",
+  "ttft": 0.8524958329999999,
+  "total": 1.010847833,
+  "tokens": 12,
+  "served_by": {},
+  "output": "The narrator of this passage is an unnamed third-person narrator."
+ },
+ {
+  "ok": true,
+  "question": "What time period does the passage take place in?",
+  "ttft": 0.905572292,
+  "total": 1.029397292,
+  "tokens": 10,
+  "served_by": {},
+  "output": "The passage does not specify a particular time period."
+ },
+ {
+  "ok": true,
+  "question": "What food items if any are mentioned in the passage?",
+  "ttft": 0.8313919169999999,
+  "total": 1.069817,
+  "tokens": 18,
+  "served_by": {},
+  "output": "Comfits, little cakes, and a mushroom are mentioned as food items in the passage."
+ },
+ {
+  "ok": true,
+  "question": "How does the sentence structure of this passage differ from modern English?",
+  "ttft": 0.890521125,
+  "total": 1.129366333,
+  "tokens": 36,
+  "served_by": {},
+  "output": "The passage features longer, more complex sentences with formal punctuation and vocabulary, often including multiple clauses and parentheses, differing from the typically shorter, more direct sentence structure common in modern English."
+ },
+ {
+  "ok": true,
+  "question": "Who are the characters mentioned in the passage?",
+  "ttft": 1.147530833,
+  "total": 1.511865625,
+  "tokens": 59,
+  "served_by": {},
+  "output": "The characters mentioned are Alice, the Mouse, the Lory, the old Crab, the young Crab, Dinah (Alice's cat), the White Rabbit (called Mary Ann), Bill (a little Lizard), the Guinea-pigs, an enormous puppy, and a large blue Caterpillar."
+ },
+ {
+  "ok": true,
+  "question": "Summarise this passage in three sentences",
+  "ttft": 0.826664625,
+  "total": 1.343710166,
+  "tokens": 86,
+  "served_by": {},
+  "output": "Alice listens to the Mouse's sad story but offends it and the Mouse walks away. The White Rabbit mistakes Alice for his housemaid and sends her to fetch his gloves and fan, leading Alice to drink a potion that makes her grow very large in a small house. After escaping the crowded house by shrinking again, Alice encounters a friendly puppy and then meets a blue Caterpillar who questions her identity, starting a puzzling conversation."
+ },
+ {
+  "ok": true,
+  "question": "What are 3 quotes from this passage worth remembering for a student of literature?",
+  "ttft": 0.849641542,
+  "total": 1.5022070419999998,
+  "tokens": 112,
+  "served_by": {},
+  "output": "1. \u201cFury said to a mouse, That he met in the house, \u2018Let us both go to law: _I_ will prosecute _you_.\u2014Come, I\u2019ll take no denial; We must have a trial...\"  \n2. \u201cI\u2014I hardly know, sir, just at present\u2014at least I know who I _was_ when I got up this morning, but I think I must have been changed several times since then.\u201d  \n3. \u201cI think, you ought to tell me who _you_ are, first.\u201d"
+ },
+ {
+  "ok": true,
+  "question": "I am writing a book report, can you give me a theme based on this passage?",
+  "ttft": 0.8210639590000002,
+  "total": 0.976813792,
+  "tokens": 17,
+  "served_by": {},
+  "output": "A theme of this passage is the confusion and challenges of growing up and changing identity."
+ },
+ {
+  "ok": true,
+  "question": "What is the overall mood or tone of this passage?",
+  "ttft": 0.7722628329999999,
+  "total": 0.996050375,
+  "tokens": 40,
+  "served_by": {},
+  "output": "The overall mood of the passage is whimsical and slightly surreal, with moments of confusion, frustration, and curiosity experienced by Alice as she navigates strange encounters and changes in size in a fantastical setting."
+ },
+ {
+  "ok": true,
+  "question": "What is the author's style, do they use long sentences, heavy adverbs, brief descriptions, flowery language etc?",
+  "ttft": 0.8438103749999999,
+  "total": 1.150998375,
+  "tokens": 47,
+  "served_by": {},
+  "output": "The author's style includes long, detailed sentences with a mix of dialogue and description. The language is whimsical and playful, with some use of heavy adverbs and imaginative, sometimes flowery descriptions. The narrative balances vivid imagery with conversational tone."
+ },
+ {
+  "ok": true,
+  "question": "What conflict, if any, is present in this passage?",
+  "ttft": 0.7922367919999997,
+  "total": 1.154049209,
+  "tokens": 56,
+  "served_by": {},
+  "output": "The conflict in the passage is Alice's struggle with changing sizes that cause discomfort and difficulty, such as growing too large to leave the room and shrinking to escape. Additionally, there's social conflict, including the Mouse's irritation and the animals' reactions to Alice mentioning her cat Dinah."
+ },
+ {
+  "ok": true,
+  "question": "Is this passage written in first, second, or third person?",
+  "ttft": 0.7888749580000001,
+  "total": 0.9450222500000001,
+  "tokens": 8,
+  "served_by": {},
+  "output": "The passage is written in third person."
+ },
+ {
+  "ok": true,
+  "question": "What emotions does the main character experience in this passage?",
+  "ttft": 0.9366569590000002,
+  "total": 1.0005982500000001,
+  "tokens": 18,
+  "served_by": {},
+  "output": "Alice feels confusion, curiosity, fear, loneliness, melancholy, and frustration throughout the passage."
+ },
+ {
+  "ok": true,
+  "question": "Which words in this passage might be unfamiliar to a modern reader, and what do they mean?",
+  "ttft": 1.024688166,
+  "total": 1.5374435,
+  "tokens": 88,
+  "served_by": {},
+  "output": "- Comfits: candied sweets\n- Kid gloves: soft leather gloves\n- Barrowful: the amount a wheelbarrow can carry\n- Hookah: a water pipe used for smoking\n- Chrysalis: the pupal stage of a butterfly\n- Pattering: light tapping or footsteps\n- Guinea-pigs: small rodents often kept as pets\n- Cucumber-frame: a glass-framed structure for growing cucumbers"
+ },
+ {
+  "ok": true,
+  "question": "Are there any examples of foreshadowing in this passage?",
+  "ttft": 0.80506275,
+  "total": 1.133355375,
+  "tokens": 55,
+  "served_by": {},
+  "output": "Yes, Alice's wish to see Dinah, her cat who catches mice and birds, foreshadows later events involving animals and tensions with creatures she meets in Wonderland. Also, the White Rabbit's anxiety about the Duchess and lost items hints at upcoming encounters with the Duchess."
+ },
+ {
+  "ok": true,
+  "question": "Rewrite the first two sentences of this passage in modern, plain English",
+  "ttft": 0.848855833,
+  "total": 1.0212487920000002,
+  "tokens": 25,
+  "served_by": {},
+  "output": "She tried to look as serious as she could.  \nNext, they ate the sweets, which caused some noise and confusion."
+ },
+ {
+  "ok": true,
+  "question": "What literary devices, such as metaphor or simile, are used in this passage?",
+  "ttft": 0.8602454170000002,
+  "total": 1.265498875,
+  "tokens": 65,
+  "served_by": {},
+  "output": "The passage uses metaphor (\"It _is_ a long tail, certainly,\" comparing the Mouse's story to its literal tail) and personification (animals like the Mouse and Rabbit speaking and acting like humans). It also features irony (Alice growing very large and then small) and alliteration (\"Fury said to a mouse\")."
+ },
+ {
+  "ok": true,
+  "question": "What locations or places are mentioned in the passage?",
+  "ttft": 0.8211113330000002,
+  "total": 1.194920292,
+  "tokens": 65,
+  "served_by": {},
+  "output": "Locations mentioned include: a house with a brass plate \"W. RABBIT\"; a great hall with a glass table and little door (now vanished); a tidy little room with a table in the window; a narrow fireplace chimney; a garden; a thick wood; and atop a large mushroom where the Caterpillar sits."
+ },
+ {
+  "ok": true,
+  "question": "What animals if any are mentioned in the passage?",
+  "ttft": 0.8058660419999999,
+  "total": 1.2220407080000002,
+  "tokens": 58,
+  "served_by": {},
+  "output": "The passage mentions a mouse, birds (large birds, small birds, a Magpie, a Canary), a cat (Dinah), a rabbit (White Rabbit), a lizard (Bill), guinea-pigs, an enormous puppy, a caterpillar, a crab, and an oyster."
+ },
+ {
+  "ok": true,
+  "question": "Rewrite a 5 sentence excerpt from this passage in Ernest Hemingway's style",
+  "ttft": 1.334842917,
+  "total": 1.5927417920000004,
+  "tokens": 38,
+  "served_by": {},
+  "output": "Alice saw the mouse\u2019s tail. It was long. The mouse told a sad story. Alice tried to help but the mouse got angry and left. Alice felt alone and began to cry."
+ },
+ {
+  "ok": true,
+  "question": "What questions might a teacher ask a class to test their understanding of this passage?",
+  "ttft": 1.0457205420000002,
+  "total": 1.6087745840000003,
+  "tokens": 79,
+  "served_by": {},
+  "output": "A teacher might ask:\n1. Why did the Mouse get angry at Alice?\n2. What caused the birds to leave suddenly?\n3. How did Alice change size after drinking from the bottle?\n4. What happened when the Rabbit tried to get into the house?\n5. How did Alice interact with the puppy in the wood?\n6. What was the Caterpillar's first question to Alice?"
+ },
+ {
+  "ok": true,
+  "question": "Choose one character from the passage who has significant dialogue, and write a greeting to the 21st century reader from that character",
+  "ttft": 0.8382945419999999,
+  "total": 1.2868947080000002,
+  "tokens": 74,
+  "served_by": {},
+  "output": "\u201cWho are you?\u201d said the Caterpillar. \n\nHello, curious reader of the 21st century! I am the Caterpillar\u2014contemplative, calm, and ever so slightly mysterious. Remember, change is part of growth, even if it leaves you puzzled at times. Keep questioning who you are, for that is the journey to wisdom. Stay thoughtful!"
+ },
+ {
+  "ok": true,
+  "question": "Translate the first 5 sentences from this passage into Spanish.",
+  "ttft": 0.804803792,
+  "total": 1.7720602089999997,
+  "tokens": 167,
+  "served_by": {},
+  "output": "Lo siguiente fue comer las confites: esto caus\u00f3 algo de ruido y confusi\u00f3n, ya que los p\u00e1jaros grandes se quejaban de que no pod\u00edan saborear los suyos, y los peque\u00f1os se atragantaban y ten\u00edan que ser palmoteados en la espalda. Sin embargo, por fin termin\u00f3, y se sentaron nuevamente en un c\u00edrculo, y pidieron al Rat\u00f3n que les contara algo m\u00e1s.\n\n\u2014Me prometiste contarme tu historia, ya sabes \u2014dijo Alicia\u2014, y por qu\u00e9 odias la C y la D \u2014a\u00f1adi\u00f3 en un susurro, medio temerosa de que se ofendiera de nuevo.\n"
+ },
+ {
+  "ok": true,
+  "question": "Imagine the characters are corresponding via tweets on Twitter. How would an exchange look like?",
+  "ttft": 0.8085597500000001,
+  "total": 1.929562041,
+  "tokens": 197,
+  "served_by": {},
+  "output": "Mouse: \"Long and sad tale... fury prosecuting a mouse? No jury, no judge, just a trial that ends in death. #MouseHistory #SadTale\"\n\nAlice: \"Sorry, was daydreaming about your tail! \ud83d\ude05 Can I help untangle it? #HelpfulAlice\"\n\nMouse: \"Don\u2019t insult me with nonsense! #EasilyOffended\"\n\nAlice: \"Oops! Didn\u2019t mean it. You\u2019re so touchy! #Apologies\"\n\nRabbit: \"Mary Ann! Fetch me my gloves and fan! Now! #RabbitBoss\"\n\nAlice: \"Taking orders from a Rabbit...  what next, my cat Dinah? \ud83d\udc31 #CuriousAdventures\"\n\nAlice:"
+ }
+]
